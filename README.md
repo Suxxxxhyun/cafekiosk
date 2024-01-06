@@ -9,4 +9,4 @@
 ### 학습로그
 - [어떤 상황이 주어질때의 테스트코드는 어떻게 작성하는게 좋을까?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section2.md)
 - [What's BDD?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section4.md)
-- [Spring시 알아야할 기초개념]()
+- [Spring시 알아야할 기초개념](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(1).md)
