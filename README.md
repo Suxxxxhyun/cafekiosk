@@ -7,6 +7,5 @@
   - [✅] 가게 운영시간(10:00 ~ 22:00) 외에는 주문을 할 수 없다.
 
 ### 학습로그
-
-- [어떤 상황이 주어질때의 테스트코드는 어떻게 작성하는게 좋을까?]()
+- [어떤 상황이 주어질때의 테스트코드는 어떻게 작성하는게 좋을까?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section2.md)
 - [What's BDD?]()
