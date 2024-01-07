@@ -19,4 +19,4 @@
 - [어떤 상황이 주어질때의 테스트코드는 어떻게 작성하는게 좋을까?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section2.md)
 - [What's BDD?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section4.md)
 - [Spring시 알아야할 기초개념](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(1).md)
-- [기본 생성자를 추가할때, AccessLevel을 PRIVATE이 아닌 PROTECTED를 하는 이유는?]()
+- [기본 생성자를 추가할때, AccessLevel을 PRIVATE이 아닌 PROTECTED를 하는 이유는?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(2).md)
