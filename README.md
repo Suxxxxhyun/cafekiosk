@@ -24,5 +24,5 @@
 - [Spring시 알아야할 기초개념](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(1).md)
 - [기본 생성자를 추가할때, AccessLevel을 PRIVATE이 아닌 PROTECTED를 하는 이유는?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(2).md)
 - [CascadeType.ALL이 뭐야?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(3).md)
-- [deleteAll()보다 deleteAllInBatch()가 더 권장되는 이유가 뭐야?]()
-- [@SpringBootTest, @DataJpaTest의 차이는?]()
+- [deleteAll()보다 deleteAllInBatch()가 더 권장되는 이유가 뭐야?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(4).md)
+- [@SpringBootTest, @DataJpaTest의 차이는?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(5).md)
