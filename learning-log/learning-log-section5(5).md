@@ -12,7 +12,7 @@
 - OrderServiceTest를 예로 들었을때, @Transactional과 @SpringBootTest를 함께 작성하면 테스트가 통과됨을 알 수 있었다.
 <img src="../image/springbootTest.PNG" >
 - but, 주문차감 기능을 생성하였을때, OrderServiceTest에 @Transactional을 걸어준다고 하더라도, update기능이 동작하지 않아, 주문이 차감되는 부분이 제대로 동작하지 않음을 알 수 있었다.
-  <img src="../image/test-error.png" >
+<img src="../image/test-error.png" >
 - 위 에러를 해결하려면, OrderServiceTest가 아닌 OrderService에 @Transactional을 걸어줘야한다.
 - 즉, @Transactional의 경계를 잘 파악하고 써야한다는 것!
 
