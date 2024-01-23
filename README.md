@@ -20,6 +20,9 @@
 - [✅] 주문 생성 시 재고 확인 및 개수 차감 후 생성하기
   - 재고는 상품번호를 가진다.
   - 재고와 관련있는 상품 타입은 병음료, 베이커리이다.
+- Cafe Kiosk Admin
+  - [✅] 관리자 페이지에서 신규 상품을 등록할 수 있다.
+    - 상품명, 타입, 판매상태, 가격 등을 기반으로 상품을 등록한다.
 
 ### 학습로그
 - [어떤 상황이 주어질때의 테스트코드는 어떻게 작성하는게 좋을까?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section2.md)
@@ -29,3 +32,4 @@
 - [CascadeType.ALL이 뭐야?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(3).md)
 - [deleteAll()보다 deleteAllInBatch()가 더 권장되는 이유가 뭐야?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(4).md)
 - [@SpringBootTest, @DataJpaTest의 차이는?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(5).md)
+- [MockMvc, @Transactional(readOnly = true)와 @Transactional을 분리하라고?]()
