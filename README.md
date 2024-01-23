@@ -32,4 +32,4 @@
 - [CascadeType.ALL이 뭐야?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(3).md)
 - [deleteAll()보다 deleteAllInBatch()가 더 권장되는 이유가 뭐야?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(4).md)
 - [@SpringBootTest, @DataJpaTest의 차이는?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(5).md)
-- [MockMvc, @Transactional(readOnly = true)와 @Transactional을 분리하라고?]()
+- [MockMvc, @Transactional(readOnly = true)와 @Transactional을 분리하라고?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(6).md)
