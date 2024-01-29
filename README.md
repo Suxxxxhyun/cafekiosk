@@ -33,3 +33,6 @@
 - [deleteAll()보다 deleteAllInBatch()가 더 권장되는 이유가 뭐야?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(4).md)
 - [@SpringBootTest, @DataJpaTest의 차이는?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(5).md)
 - [MockMvc, @Transactional(readOnly = true)와 @Transactional을 분리하라고?](https://github.com/Suxxxxhyun/cafekiosk-tdd-study/blob/main/learning-log/learning-log-section5(6).md)
+- [objectMapper로 string형태의 json을 직렬화, 역직렬화한다고?]()
+- [도메인 정책에 따른 특수한 형태의 Validation은 controller에서 하지 않는다.]()
+- [controller와 service간의 의존관계가 생겼다! 이를 위한 해결책은?]()
