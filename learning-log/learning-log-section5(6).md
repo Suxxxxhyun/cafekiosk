@@ -1,4 +1,4 @@
-## MockMvc, @Transactional(readOnly = true)와 @Transactional을 분리하라고?
+## MockMvc, @Transactional(readOnly = true)와 @Transactional을 분리하라고?, CQRS패턴이 뭐야?
 
 ### MockMvc
 
